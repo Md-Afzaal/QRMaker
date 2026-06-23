@@ -1,5 +1,7 @@
 <p align="center">
-  [![QR Code for Repo](output_QR.png)](https://github.com/Md-Afzaal/QRMaker)
+  <a href="https://github.com/Md-Afzaal/QRMaker">
+    <img src="output_QR.png" width="250">
+  </a>
 </p>
 
 # QR Code Generator from URLs
