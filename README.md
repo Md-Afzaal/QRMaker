@@ -9,15 +9,15 @@ Each URL is converted into a QR code image and saved in a folder called `qr_code
 
 ## Workflow
 
-1️⃣ **Load `Urls.txt`**  
-⬇️  
-2️⃣ **Read each URL & clean whitespace**  
-⬇️  
-3️⃣ **Generate QR code for each URL using `segno`**  
-⬇️  
-4️⃣ **Save QR code images in `qr_codes/` folder with simple filenames**  
-⬇️  
-5️⃣ **Print confirmation messages in terminal**
+1️ **Load `Urls.txt`**  
+  
+2️ **Read each URL & clean whitespace**  
+  
+3️ **Generate QR code for each URL using `segno`**  
+  
+4️ **Save QR code images in `qr_codes/` folder with simple filenames**  
+  
+5️ **Print confirmation messages in terminal**
 
 ---
 
