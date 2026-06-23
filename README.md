@@ -1,4 +1,4 @@
-[![QR Code for Repo](output_QR.png)](https://github.com/Neko0kami/Creating-QR)
+<p align="center">[![QR Code for Repo](output_QR.png)](https://github.com/Md-Afzaal/QRMaker)</p>
 
 # QR Code Generator from URLs
 
@@ -9,15 +9,15 @@ Each URL is converted into a QR code image and saved in a folder called `qr_code
 
 ## Workflow
 
-1️ **Load `Urls.txt`**  
+1️. **Load `Urls.txt`**  
   
-2️ **Read each URL & clean whitespace**  
+2️. **Read each URL & clean whitespace**  
   
-3️ **Generate QR code for each URL using `segno`**  
+3️. **Generate QR code for each URL using `segno`**  
   
-4️ **Save QR code images in `qr_codes/` folder with simple filenames**  
+4️. **Save QR code images in `qr_codes/` folder with simple filenames**  
   
-5️ **Print confirmation messages in terminal**
+5️. **Print confirmation messages in terminal**
 
 ---
 
